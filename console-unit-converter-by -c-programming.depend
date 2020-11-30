@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606752518 source:d:\console-unit-converter-by -c-programming\main.c
+	<stdio.h>
+	<stdlib.h>
+
