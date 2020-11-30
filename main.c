@@ -1,3 +1,14 @@
+/*
+======================================================================
+Name        : Console Unit converter
+Author      : Deepak M S (GitHub:Deepak-coder80)
+CopyRight   : ISC-standard License
+Description : Simply silly unit converter by c in console
+======================================================================
+*/
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
